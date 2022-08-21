@@ -1,6 +1,6 @@
 const API_BASE_URL =
   process.env.REACT_APP_API_BASE_URL ||
-  'https://shielded-hamlet-66106.herokuapp.com/';
+  'postgres://snnupumt:Ph5_VVhjghpbR0w1icE3BHa6rCCTyOMA@hansken.db.elephantsql.com/snnupumt';
 
 /**
  * Defines the default headers for these functions to work with `json-server`
