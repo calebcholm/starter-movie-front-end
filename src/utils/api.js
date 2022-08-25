@@ -1,6 +1,6 @@
 const API_BASE_URL =
   process.env.REACT_APP_API_BASE_URL ||
-  'postgresql://postgres@localhost/postgres';
+  'https://shielded-hamlet-66106.herokuapp.com/api';
 
 /**
  * Defines the default headers for these functions to work with `json-server`
