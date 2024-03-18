@@ -1,6 +1,6 @@
 const API_BASE_URL =
   process.env.REACT_APP_API_BASE_URL ||
-  'postgres://snnupumt:Ph5_VVhjghpbR0w1icE3BHa6rCCTyOMA@hansken.db.elephantsql.com/snnupumt';
+  'https://starter-movie-front-end-8i0l.onrender.com/';
 
 /**
  * Defines the default headers for these functions to work with `json-server`
